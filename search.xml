@@ -10,6 +10,23 @@
       </tags>
   </entry>
   <entry>
+    <title>11</title>
+    <url>/2020/06/03/11/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>test</tag>
+        <tag>auto</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>about</title>
+    <url>/2020/06/03/about/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>about</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>about me</title>
     <url>/2020/06/03/about-me/</url>
     <content><![CDATA[]]></content>
@@ -31,22 +48,5 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>about</title>
-    <url>/2020/06/03/about/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>about</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>11</title>
-    <url>/2020/06/03/11/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>test</tag>
-        <tag>auto</tag>
-      </tags>
   </entry>
 </search>
