@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>a</title>
-    <url>/2020/06/03/a/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>test</tag>
-        <tag>auto</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>about me</title>
     <url>/2020/06/03/about-me/</url>
     <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>about</title>
+    <url>/2020/06/03/about/</url>
+    <content><![CDATA[]]></content>
+      <tags>
+        <tag>about</tag>
+      </tags>
   </entry>
   <entry>
     <title>11</title>
@@ -24,11 +23,12 @@
       </tags>
   </entry>
   <entry>
-    <title>about</title>
-    <url>/2020/06/03/about/</url>
+    <title>a</title>
+    <url>/2020/06/03/a/</url>
     <content><![CDATA[]]></content>
       <tags>
-        <tag>about</tag>
+        <tag>test</tag>
+        <tag>auto</tag>
       </tags>
   </entry>
   <entry>
